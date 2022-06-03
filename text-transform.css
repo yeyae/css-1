@@ -1,0 +1,15 @@
+.first{
+    text-transform: lowercase;
+    text-decoration: overline;
+}
+.second{
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.third{
+    text-transform: uppercase;
+    text-decoration: line-through;
+}
+.fourth{
+    text-decoration: overline;
+}
